@@ -20,4 +20,31 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>tc1.txt</name>
+			<type>1</type>
+			<location>C:/Users/ksathyas/git/TreeDemo/TreeDemo/Testcases/tc1.txt</location>
+		</link>
+		<link>
+			<name>tc2.txt</name>
+			<type>1</type>
+			<location>C:/Users/ksathyas/git/TreeDemo/TreeDemo/Testcases/tc2.txt</location>
+		</link>
+		<link>
+			<name>tc3.txt</name>
+			<type>1</type>
+			<location>C:/Users/ksathyas/git/TreeDemo/TreeDemo/Testcases/tc3.txt</location>
+		</link>
+		<link>
+			<name>tc4.txt</name>
+			<type>1</type>
+			<location>C:/Users/ksathyas/git/TreeDemo/TreeDemo/Testcases/tc4.txt</location>
+		</link>
+		<link>
+			<name>tc5.txt</name>
+			<type>1</type>
+			<location>C:/Users/ksathyas/OneDrive - Capgemini/Documents/tc5.txt</location>
+		</link>
+	</linkedResources>
 </projectDescription>

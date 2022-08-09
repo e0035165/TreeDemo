@@ -21,7 +21,7 @@ public class App
     	FileReader fr = null;
 		//FileWriter fw = null;
 		try {
-			fr = new FileReader("C:\\Users\\ksathyas\\OneDrive - Capgemini\\Documents\\tc6.txt");
+			fr = new FileReader("C:\\Users\\ksathyas\\OneDrive - Capgemini\\Documents\\tc4.txt");
 			//fw = new FileWriter("C:\\Users\\ksathyas\\OneDrive - Capgemini\\Documents\\Answer.txt");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
